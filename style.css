@@ -1,0 +1,18 @@
+.table-container {
+  margin-bottom: 30px;
+
+  th {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding: 10px 0 10px 0;
+  }
+
+  td {
+    &:not(:last-child) {
+      padding: 15px 30px 15px 0;
+    }
+    border-top: 1px solid black;
+  }
+}
+
