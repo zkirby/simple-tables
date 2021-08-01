@@ -1,0 +1,30 @@
+{
+  "name": "simple-tables",
+  "version": "1.0.0",
+  "description": "a simple react table wrapper",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkirby/simple-tables.git"
+  },
+  "keywords": [
+    "tables",
+    "react",
+    "react",
+    "tables",
+    "simple"
+  ],
+  "author": "zkirby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zkirby/simple-tables/issues"
+  },
+  "homepage": "https://github.com/zkirby/simple-tables#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-tables": "^1.0.2"
+  }
+}
