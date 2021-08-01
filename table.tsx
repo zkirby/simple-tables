@@ -1,8 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 
-import { PAGE_SIZE_OPTIONS } from './table.constants';
-
-import './tables.scss';
+import { PAGE_SIZE_OPTIONS } from './constants.ts';
+import './style.css';
 
 const makeTable = ({
   getTableProps,
